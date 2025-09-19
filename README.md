@@ -19,5 +19,5 @@ Built with **Python** and **pyTelegramBotAPI** (Telebot).
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="50" alt="Telegram"/>
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/telegram/telegram-original.svg" width="50" alt="Telegram"/>
 </p>
