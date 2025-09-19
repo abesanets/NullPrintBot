@@ -10,7 +10,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import threading
 from telebot.types import Message
 
-TOKEN = '7985933208:AAFQJNFxobbwq-Tpurwmpyt-9lhuOSjJTlk'
+TOKEN = 'your-token'
 bot = telebot.TeleBot(TOKEN)
 
 def reset_daily_limits():
